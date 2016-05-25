@@ -1,2 +1,2 @@
-# manish-resume-2
+# manish-resume
 my resume
